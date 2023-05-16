@@ -1,0 +1,1 @@
+[![Deploy buy runner](https://github.com/Allexandere/example/actions/workflows/deploy-job.yml/badge.svg?branch=master)](https://github.com/Allexandere/example/actions/workflows/deploy-job.yml)
